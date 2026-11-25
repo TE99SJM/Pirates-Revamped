@@ -1,0 +1,16 @@
+*.exe
+*.dll
+*.pdb
+*.FPK
+*.fpk
+*.PAK
+*.pak
+*.dmp
+*.pirates_savegame
+*.traffic_savegame
+*.log
+[Bb]in/
+[Oo]bj/
+.vs/
+__pycache__/
+*.pyc
